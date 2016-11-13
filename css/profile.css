@@ -9,3 +9,8 @@
 .navcolor{color: white;}
 .navbar{background: #0a48ad;}
 .mainbackground1{background-image: url("../img/background1.jpeg"); background-size: 100% 600px;}
+.jumbotron{background-image: url("../img/landing1.jpeg"); background-size: 100% 800px;}
+.bottom-three{margin-bottom: 20%;}
+.top-three{margin-top:40%;}
+.titlefont{font-size: 72px;}
+.secondary-font-landing{font-size:20px;}
